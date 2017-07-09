@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 --> it helps me understand from where a particular branch started and what all are not included in a particular branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+--> All the chnages of the two branches are seamlessley merged into a one single brached to be tracked into, each branch represents a starting for some new task which might be dangerouus to incorporate in the main branch branch structure shows the deviation from that branch
