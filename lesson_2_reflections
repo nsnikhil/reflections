@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+--> Creates creates temporray helper file which it needs to keep track of the files for changes in the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+--> Its the man in middle where every files resides before getting commited 
